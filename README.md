@@ -2,7 +2,7 @@
 
 I'm Santosh, an Engineer from Hyderabad, India. I work on JavaScript.
 
-- 👨‍💻 Senior Development Engineer at Pramati
+- 👨‍💻 Software Engineer at userfocus.app, Previously with Pramati, Gaian and Infosys
 - 📫 How to reach me: viswanathamsantosh@gmail.com
 - 🔭 Stalk me at https://twitter.com/isantoshv
 - 😄 Pronouns: He/Him
