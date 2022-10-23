@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align='center'>
   <a href="mailto:viswanathamsantosh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -15,13 +13,16 @@
   </a>&nbsp;&nbsp;
   <a href="https://dev.to/devcer" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;  
 </p>
 
+
+## Github Stats
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=devcer&show_icons=true&theme=vue-dark alt=santosh viswanatham /> </p>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=devcer&layout=compact alt=santosh viswanatham /> </p>
  
+
+## Hi there 👋
 
 I'm Santosh, an Engineer from Hyderabad, India. I work with JavaScript.
 
