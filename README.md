@@ -1,7 +1,17 @@
 ### Hi there 👋
 
+<div style="display:flex;">
+  <div>
+    
 [![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcer&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+  </div>
+  <div>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
+  </div>
+</div>
 
 I'm Santosh, an Engineer from Hyderabad, India. I work with JavaScript.
 
