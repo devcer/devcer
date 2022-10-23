@@ -21,6 +21,14 @@
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=devcer&show_icons=true&theme=vue-dark alt=santosh viswanatham /> </p>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=devcer&layout=compact alt=santosh viswanatham /> </p>
  
+## Skills
+<p align='center'>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
+</p>
 
 ## Hi there 👋
 
