@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/isantoshv/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/isantoshv" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@isantoshv" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://dev.to/devcer" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
 <div style="display:flex;">
   <div>
     
