@@ -20,7 +20,15 @@
 ## Github Stats
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=devcer&show_icons=true&theme=vue-dark alt=santosh viswanatham /> </p>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=devcer&layout=compact alt=santosh viswanatham /> </p>
- 
+
+## Github trophies
+
+<p align='center'>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=devcer&row=1&column=6&theme=darkhub&margin-w=16&margin-h=16&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
 ## Languages
 <p align='center'>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
