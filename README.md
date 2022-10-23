@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcer&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 I'm Santosh, an Engineer from Hyderabad, India. I work with JavaScript.
 
 - 👨‍💻 Software Engineer at Marvin, Previously with Pramati, Gaian and Infosys
@@ -8,3 +11,5 @@ I'm Santosh, an Engineer from Hyderabad, India. I work with JavaScript.
 - 😄 Pronouns: He/Him
 - ⚡ The best thing I ever spent my money on was to watch a 4D movie of `The Boss Baby`!  
 - 🧞 If there is one wish I could have, it would be to watch my favorite movie for the first time all over again.
+
+
