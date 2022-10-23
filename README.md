@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Santosh, an Engineer from Hyderabad, India. I work on JavaScript.
+I'm Santosh, an Engineer from Hyderabad, India. I work with JavaScript.
 
-- 👨‍💻 Software Engineer at userfocus.app, Previously with Pramati, Gaian and Infosys
+- 👨‍💻 Software Engineer at Marvin, Previously with Pramati, Gaian and Infosys
 - 📫 How to reach me: viswanathamsantosh@gmail.com
 - 🔭 Stalk me at https://twitter.com/isantoshv
 - 😄 Pronouns: He/Him
