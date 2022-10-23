@@ -34,7 +34,27 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
 </p>
 
-## Hi there 👋
+## Mobile Frameworks
+<p align='center'>
+</p>
+
+## Testing and QA
+<p align='center'>
+</p>
+
+## Tools
+<p align='center'>
+</p>
+
+## IDEs
+<p align='center'>
+</p>
+
+## Operating Systems
+<p align='center'>
+</p>
+
+### Hi there 👋
 
 I'm Santosh, an Engineer from Hyderabad, India. I work with JavaScript.
 
