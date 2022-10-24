@@ -18,7 +18,7 @@
 
 
 ## Github Stats
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=devcer&show_icons=true&theme=vue-dark alt=santosh viswanatham /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=devcer&show_icons=true&theme=vue-dark&count_private=true alt=santosh viswanatham /> </p>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=devcer&layout=compact alt=santosh viswanatham /> </p>
 
 ## Github trophies
